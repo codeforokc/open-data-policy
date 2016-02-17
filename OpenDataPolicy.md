@@ -1,4 +1,4 @@
-A RESOLUTION PROMOTING OPEN AND ACCESSIBLE DATA, OPEN STANDARDS, AND OPEN SOURCE SOFTWARE.
+<p align="center">A RESOLUTION PROMOTING OPEN AND ACCESSIBLE DATA, OPEN STANDARDS, AND OPEN SOURCE SOFTWARE.</p>
  
 WHEREAS, Oklahoma City is committed to engaging the community by working with citizens, soliciting their ideas, input, and creative energy; and
  
