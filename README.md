@@ -5,3 +5,9 @@ We are in the process of writing a draft for an Open Data Policy that could be a
 - [Open an issue](https://github.com/codeforokc/open-data-policy/issues) with ideas or questions
 - [Fork this repo](https://help.github.com/articles/fork-a-repo/) and [submit a pull request](https://help.github.com/articles/using-pull-requests/) with suggested changes
 - [Join us on Slack](http://slack.codeforokc.org) for real-time conversation
+
+## First Draft
+
+You can view our first draft for a policy here:
+
+- [OpenDataPolicy.md](OpenDataPolicy.md)
