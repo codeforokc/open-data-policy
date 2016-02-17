@@ -25,9 +25,9 @@ NOW, THEREFORE BE IT RESOLVED, that the Council of Oklahoma City WILL:
 That this Resolution shall become effective upon the date of its passage.
  
 ADOPTED, by the Council on this __________ day of __________ 2015.
-
-\________________________________________________
-
-Chairman of the Council
+<br>
+<br>
+<br>
+\________________________________________________<br>Chairman of the Council
  
 
